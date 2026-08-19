@@ -1,13 +1,74 @@
 {
-  "targetDate": "2026-08-18",
+  "targetDate": "2026-08-19",
   "status": "已按北京时间汇总昨日资讯；政策优先毕业求职与生活相关内容",
   "items": [
     {
-      "id": "2026-08-18-1",
+      "id": "2026-08-19-1",
       "rank": 1,
+      "title": "不要错过！这家驻济省属国有企业公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-08-19",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_e7b8cd88aaaa426fb0bb6772b9f36fc0.html"
+    },
+    {
+      "id": "2026-08-19-2",
+      "rank": 2,
+      "title": "“人社直通车”社保专场直播上线",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-08-19",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_7930a8ac167a4b13b99caf976430b9e3.html"
+    },
+    {
+      "id": "2026-08-19-3",
+      "rank": 3,
+      "title": "济南首批 29 个 “乐业山东” 技能培训加油站正式上线！",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-08-19",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_848309d48a5c40d1843ddef59dea9779.html"
+    },
+    {
+      "id": "2026-08-19-4",
+      "rank": 4,
+      "title": "温馨提示：这两场招聘夜市有变动",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-08-19",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_a5b0b74eeaea4fee81a7f4d2950476c8.html"
+    },
+    {
+      "id": "2026-08-19-5",
+      "rank": 5,
+      "title": "快来报名吧！2026济南市求职能力实训营槐荫专场招募启动",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-08-19",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_a5a9346fed184481a5cd7651b0a1fdee.html"
+    },
+    {
+      "id": "2026-08-19-6",
+      "rank": 6,
       "title": "济南有岗位！这家央企公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-18",
+      "publishedAt": "2026-08-19",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
       "tags": [
         "政策"
@@ -15,40 +76,16 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_d2d3050d2f9b4e95a1d399a124ac930f.html"
     },
     {
-      "id": "2026-08-18-2",
-      "rank": 2,
-      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第30场）",
+      "id": "2026-08-19-7",
+      "rank": 7,
+      "title": "历下区2026年高校毕业生“求职能力实训营”顺利开营",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-18",
+      "publishedAt": "2026-08-19",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_2103badc525842faa983a45b700cc507.html"
-    },
-    {
-      "id": "2026-08-18-3",
-      "rank": 3,
-      "title": "这家驻济省属事业单位公开招聘啦~",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-18",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开政策。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9f17e05a1d554eb1bbb83e096878cfd6.html"
-    },
-    {
-      "id": "2026-08-18-4",
-      "rank": 4,
-      "title": "国务院关于修改《住房公积金管理条例》的决定",
-      "source": "中国政府网",
-      "publishedAt": "2026-08-18",
-      "summary": "与毕业求职或独立生活直接相关的中国政府网公开政策。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_2a5e9eee53cc4a28b02fc376a4d47bdb.html"
     }
   ]
 }
