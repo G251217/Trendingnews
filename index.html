@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="按北京时间整理的昨日政策、机器人与商业机会资讯。">
+    <title>昨日热点｜十条值得花时间的资讯</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main>
+      <header class="hero">
+        <a class="brand" href="#top"><span>昨日</span>热点</a>
+        <p class="hero-note">只看值得花时间的事</p>
+        <p class="date" id="date">北京 · 正在读取昨日榜单</p>
+        <h1>昨日，什么值得你现在知道？</h1>
+        <p class="intro">政策走向、机器人进展、以及真正值得跟进的商业机会。每天只留十条。</p>
+      </header>
+      <section class="feed" aria-label="昨日热点榜单">
+        <div class="feed-heading"><div><p class="eyebrow">DAILY BRIEFING</p><h2>昨日十条</h2></div><p class="status" id="status">正在连接资讯源…</p></div>
+        <div class="filters" aria-label="按主题筛选"><button class="active" data-topic="全部">全部</button><button data-topic="政策">政策</button><button data-topic="机器人">机器人</button><button data-topic="赚钱风口">赚钱风口</button></div>
+        <div class="news-list" id="news-list" aria-live="polite"></div>
+      </section>
+      <footer>按北京时间每日更新 · 仅保存摘要与原文链接</footer>
+    </main>
+    <dialog id="detail"><button class="close" aria-label="关闭详情">×</button><p class="eyebrow" id="detail-meta"></p><h2 id="detail-title"></h2><div class="topics" id="detail-tags"></div><p class="detail-summary" id="detail-summary"></p><a class="source-link" id="detail-link" target="_blank" rel="noreferrer">阅读原文 ↗</a></dialog>
+    <script src="app.js"></script>
+  </body>
+</html>
