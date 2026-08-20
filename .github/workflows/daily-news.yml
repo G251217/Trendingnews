@@ -1,8 +1,8 @@
-name: 更新并发布昨日热点
+name: 更新并发布今日热点
 
 on:
   schedule:
-    - cron: "10 16 * * *"
+    - cron: "10 0,4,8,12,16,20 * * *"
   workflow_dispatch:
   push:
     branches: [main]
