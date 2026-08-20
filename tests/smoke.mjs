@@ -16,6 +16,7 @@ test("homepage contains the news surface and its data dependency", async () => {
   assert.match(await read("scripts/collect-news.mjs"), /济南市人力资源和社会保障局/);
   assert.match(await read("scripts/collect-news.mjs"), /济南住房公积金中心/);
   assert.match(await read("scripts/collect-news.mjs"), /杭州市人力资源和社会保障局/);
+  assert.match(await read("scripts/collect-news.mjs"), /targetDate: null/);
   assert.ok(feed.items.length > 0 && feed.items.length <= 10);
   assert.ok(feed.items.every((item) => !item.title.includes("...")));
   assert.ok(feed.items.every((item) => item.url.startsWith("https://") && item.tags.length > 0));
