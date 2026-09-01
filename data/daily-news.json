@@ -1,79 +1,42 @@
 {
-  "targetDate": "2026-08-28",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-01",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-08-28-1",
+      "id": "2026-09-01-1",
       "rank": 1,
-      "title": "区县联播丨槐荫 长清：开展“情系农民工 夏季送清凉”走访慰问活动 重点用工企业专场招聘走进五峰山街道",
+      "title": "不要错过！这家市属事业单位公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-28",
+      "publishedAt": "2026-09-01",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_5a3deda714f447ebb1d7ede36a2719bb.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b3ddc5614e1c4ed8adc196f258e566fd.html"
     },
     {
-      "id": "2026-08-28-2",
+      "id": "2026-09-01-2",
       "rank": 2,
+      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第34场）",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-01",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_a3630e7aceff4cdaa818e0ced36175d6.html"
+    },
+    {
+      "id": "2026-09-01-3",
+      "rank": 3,
       "title": "济南有岗位！这家央企公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-28",
+      "publishedAt": "2026-09-01",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_0cf2650e228c4891bfe966aef937d31a.html"
-    },
-    {
-      "id": "2026-08-28-3",
-      "rank": 3,
-      "title": "本周六 2026年济南市百日千万招聘专项行动专场招聘会邀请您来",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-28",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_158a5796822443f7a8e38daf08eb516b.html"
-    },
-    {
-      "id": "2026-08-28-4",
-      "rank": 4,
-      "title": "不要错过！这些市属事业单位公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-28",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c1aefb43a02c4b6ba5f3b9d73eed5926.html"
-    },
-    {
-      "id": "2026-08-28-5",
-      "rank": 5,
-      "title": "长清人社：组织开展“访企拓岗促就业”专项行动",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-08-28",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_adba0c93800f4f54a2ac672a43727bcf.html"
-    },
-    {
-      "id": "2026-08-28-6",
-      "rank": 6,
-      "title": "济南公积金服务再升级！开启公积金业务“边聊边办”...",
-      "source": "济南住房公积金中心",
-      "publishedAt": "2026-08-28",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://gjj.jinan.gov.cn/col/col11194/art/2026/art_454eeb9362be49a1956045c2b8957752.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_6fcd7dc6d8954660896698191a3543ee.html"
     }
   ]
 }
