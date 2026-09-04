@@ -1,26 +1,39 @@
 {
-  "targetDate": "2026-09-03",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-04",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-03-1",
+      "id": "2026-09-04-1",
       "rank": 1,
-      "title": "关于对济南市拟推荐留学人员回国创业奖对象的公示",
+      "title": "续航赋能聚合力 携手共进赢未来——济南市举办“创业泉城训练营”续航赋能活动",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
+      "publishedAt": "2026-09-04",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
         "赚钱风口"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18578/art/2026/art_040da5367ea3493dbc80a174aabf8258.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_8d22c44298c44829adbfed73c201ae0d.html"
     },
     {
-      "id": "2026-09-03-2",
+      "id": "2026-09-04-2",
       "rank": 2,
+      "title": "这家区属国有企业公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-04",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_62e92421dfce413fa4bda6f7a6ceffc4.html"
+    },
+    {
+      "id": "2026-09-04-3",
+      "rank": 3,
       "title": "111人！这家驻济省属企业公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
+      "publishedAt": "2026-09-04",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
@@ -29,60 +42,35 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b8c6518910464448b66338163066f77e.html"
     },
     {
-      "id": "2026-09-03-3",
-      "rank": 3,
-      "title": "区县联播丨市中 槐荫：走访调研精准服务人力资源产业发展 组织开展高校毕业生“槐荫乐业实景观摩”参访活动",
+      "id": "2026-09-04-4",
+      "rank": 4,
+      "title": "不要错过！山东省财金智慧能源科技有限公司公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
+      "publishedAt": "2026-09-04",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_a91057e17325498aa02996f40faa83ec.html"
+    },
+    {
+      "id": "2026-09-04-5",
+      "rank": 5,
+      "title": "剧透来了！本周六来泉城广场，这些企业集中放岗！",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-04",
+      "summary": "来自济南市人力资源和社会保障局的公开信息，已按主题相关性纳入今日热点候选。",
+      "tags": [
         "赚钱风口"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_c39e6c9bf1084e5d8a09b4a8d4dca51b.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_e178571986444500ba9ae5c4fc14a63f.html"
     },
     {
-      "id": "2026-09-03-4",
-      "rank": 4,
-      "title": "本周六，泉城广场！济南市2026年公共就业服务季即将启幕",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_440b62916d464a058c060c2d061c51ae.html"
-    },
-    {
-      "id": "2026-09-03-5",
-      "rank": 5,
-      "title": "温馨提示：这两场招聘夜市有变动",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9b4b1e45c19940bda9bb6c1f1ba1f2b7.html"
-    },
-    {
-      "id": "2026-09-03-6",
+      "id": "2026-09-04-6",
       "rank": 6,
-      "title": "济南有岗位！这家央企公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_6a5167c1ac1d4edba49c5381e07108ee.html"
-    },
-    {
-      "id": "2026-09-03-7",
-      "rank": 7,
       "title": "区县联播丨市中 历城：举办业务技能练兵比武竞赛促服务提质 组织惠企政策宣讲暨人力资源服务进企业活动",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-03",
+      "publishedAt": "2026-09-04",
       "summary": "来自济南市人力资源和社会保障局的公开信息，已按主题相关性纳入今日热点候选。",
       "tags": [
         "赚钱风口"
