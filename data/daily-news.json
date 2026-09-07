@@ -1,81 +1,42 @@
 {
-  "targetDate": "2026-09-04",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-07",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-04-1",
+      "id": "2026-09-07-1",
       "rank": 1,
-      "title": "续航赋能聚合力 携手共进赢未来——济南市举办“创业泉城训练营”续航赋能活动",
+      "title": "这家驻济央企公开招聘啦~",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策",
-        "赚钱风口"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_8d22c44298c44829adbfed73c201ae0d.html"
-    },
-    {
-      "id": "2026-09-04-2",
-      "rank": 2,
-      "title": "这家区属国有企业公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策",
-        "赚钱风口"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_62e92421dfce413fa4bda6f7a6ceffc4.html"
-    },
-    {
-      "id": "2026-09-04-3",
-      "rank": 3,
-      "title": "111人！这家驻济省属企业公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策",
-        "赚钱风口"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b8c6518910464448b66338163066f77e.html"
-    },
-    {
-      "id": "2026-09-04-4",
-      "rank": 4,
-      "title": "不要错过！山东省财金智慧能源科技有限公司公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
+      "publishedAt": "2026-09-07",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_a91057e17325498aa02996f40faa83ec.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_3c33b6bdc3cb426a9b8258d15e8af6af.html"
     },
     {
-      "id": "2026-09-04-5",
-      "rank": 5,
-      "title": "剧透来了！本周六来泉城广场，这些企业集中放岗！",
+      "id": "2026-09-07-2",
+      "rank": 2,
+      "title": "“职”达身边！泉城广场就业大集让好工作零距离",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
-      "summary": "来自济南市人力资源和社会保障局的公开信息，已按主题相关性纳入今日热点候选。",
+      "publishedAt": "2026-09-07",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_e178571986444500ba9ae5c4fc14a63f.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_60aea50238d24db9b9b08617192979a0.html"
     },
     {
-      "id": "2026-09-04-6",
-      "rank": 6,
-      "title": "区县联播丨市中 历城：举办业务技能练兵比武竞赛促服务提质 组织惠企政策宣讲暨人力资源服务进企业活动",
+      "id": "2026-09-07-3",
+      "rank": 3,
+      "title": "1270人！中国农业银行山东省分行公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-04",
-      "summary": "来自济南市人力资源和社会保障局的公开信息，已按主题相关性纳入今日热点候选。",
+      "publishedAt": "2026-09-07",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_c8b794947eed429ab90b6f161752b540.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c3de9f5f3820437da977f5f5d56e9094.html"
     }
   ]
 }
