@@ -1,68 +1,54 @@
 {
-  "targetDate": "2026-09-09",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-10",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-09-1",
+      "id": "2026-09-10-1",
       "rank": 1,
-      "title": "2026年度首批博士（后）人才新创办企业 资助项目入选企业公示",
+      "title": "邮你炫 耀出彩｜中国邮政储蓄银行山东省分行2027校园招聘重磅开启！",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-09",
+      "publishedAt": "2026-09-10",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18578/art/2026/art_4eaa6cd643d3476eae243d0f9ecf47d2.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_01ff544e8ceb4e189b1d25062ee198fb.html"
     },
     {
-      "id": "2026-09-09-2",
+      "id": "2026-09-10-2",
       "rank": 2,
-      "title": "循迹两山学经验 赋能泉城启新程 2026年“创业泉城训练营”湖州安吉站正式开营",
+      "title": "致济南市技工教育和职业技能培训机构广大教师们的慰问信",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-09",
+      "publishedAt": "2026-09-10",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_05e15c3fe8a74d48b585d7a81c0cbbda.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_68a870b065dd4a87b412946f6933dd5a.html"
     },
     {
-      "id": "2026-09-09-3",
+      "id": "2026-09-10-3",
       "rank": 3,
+      "title": "打破求职盲目 找准人生赛道——市公共就业服务中心职业指导公益讲座第二讲报名中",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-10",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_20979069d5b24e4eb3fba9e5cc9ee5ba.html"
+    },
+    {
+      "id": "2026-09-10-4",
+      "rank": 4,
       "title": "市级管培生若干人！山东邮政公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-09",
+      "publishedAt": "2026-09-10",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_912e63ec6fbc46cf86785f842c0625a4.html"
-    },
-    {
-      "id": "2026-09-09-4",
-      "rank": 4,
-      "title": "960人！中国工商银行山东省分行公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-09",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_976c7b5a574741568c347dc566b827e1.html"
-    },
-    {
-      "id": "2026-09-09-5",
-      "rank": 5,
-      "title": "钢城人社：看拔河、找工作、问社保！人社服务亮相“村拔”冠军之夜",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-09",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_fbf884eca7d3450d8da4b02202ad82e5.html"
     }
   ]
 }
