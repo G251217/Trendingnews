@@ -1,66 +1,30 @@
 {
-  "targetDate": "2026-09-10",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-11",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-10-1",
+      "id": "2026-09-11-1",
       "rank": 1,
+      "title": "20人！这家市属事业单位公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-11",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_1f730113a7d54e3899b3a2ccf52dce26.html"
+    },
+    {
+      "id": "2026-09-11-2",
+      "rank": 2,
       "title": "邮你炫 耀出彩｜中国邮政储蓄银行山东省分行2027校园招聘重磅开启！",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-10",
+      "publishedAt": "2026-09-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_01ff544e8ceb4e189b1d25062ee198fb.html"
-    },
-    {
-      "id": "2026-09-10-2",
-      "rank": 2,
-      "title": "致济南市技工教育和职业技能培训机构广大教师们的慰问信",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-10",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_68a870b065dd4a87b412946f6933dd5a.html"
-    },
-    {
-      "id": "2026-09-10-3",
-      "rank": 3,
-      "title": "打破求职盲目 找准人生赛道——市公共就业服务中心职业指导公益讲座第二讲报名中",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-10",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_20979069d5b24e4eb3fba9e5cc9ee5ba.html"
-    },
-    {
-      "id": "2026-09-10-4",
-      "rank": 4,
-      "title": "市级管培生若干人！山东邮政公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-10",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_912e63ec6fbc46cf86785f842c0625a4.html"
-    },
-    {
-      "id": "2026-09-10-5",
-      "rank": 5,
-      "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-10",
-      "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
-      "tags": [
-        "赚钱风口"
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm"
     }
   ]
 }
