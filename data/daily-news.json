@@ -1,42 +1,42 @@
 {
-  "targetDate": "2026-09-11",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-14",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-11-1",
+      "id": "2026-09-14-1",
       "rank": 1,
-      "title": "20人！这家市属事业单位公开招聘了",
+      "title": "不要错过！山东大学公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-11",
+      "publishedAt": "2026-09-14",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_1f730113a7d54e3899b3a2ccf52dce26.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_f65844f6353c46b1b76b82621e793c66.html"
     },
     {
-      "id": "2026-09-11-2",
+      "id": "2026-09-14-2",
       "rank": 2,
-      "title": "邮你炫 耀出彩｜中国邮政储蓄银行山东省分行2027校园招聘重磅开启！",
+      "title": "中国劳动保障报丨用技能“圈”住饭碗——山东济南以技能培训赋能农民工高质量就业",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-11",
+      "publishedAt": "2026-09-14",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_01ff544e8ceb4e189b1d25062ee198fb.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_e53f30861eb0481eb78208223a5c004e.html"
     },
     {
-      "id": "2026-09-11-3",
+      "id": "2026-09-14-3",
       "rank": 3,
-      "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-11",
-      "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
+      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第38场）",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-14",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_849cb07e6e7949cdb358bd16b2d6ad05.html"
     }
   ]
 }
