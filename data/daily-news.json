@@ -1,26 +1,73 @@
 {
-  "targetDate": "2026-09-15",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-16",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-15-1",
+      "id": "2026-09-16-1",
       "rank": 1,
-      "title": "区县联播丨市中 长清：全链条精准护航高校毕业生就业创业 校地协同送技能 直播赋能促增收",
+      "title": "103人！这家驻济省属事业单位公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-15",
+      "publishedAt": "2026-09-16",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_a3124b72bc734cdda1409bcf262f9168.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_3ec2703676b046ddb0d13d243dcd2019.html"
     },
     {
-      "id": "2026-09-15-2",
+      "id": "2026-09-16-2",
       "rank": 2,
+      "title": "我市在第四届山东省公共就业服务业务竞赛中取得佳绩",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-16",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_115aaa1762ad43dea8177463dc2b989b.html"
+    },
+    {
+      "id": "2026-09-16-3",
+      "rank": 3,
+      "title": "关于征集遴选评估高校学生职业技能等级认定机构的通知",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-16",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_2f27a3a9588946b79b7128737bd7f4ff.html"
+    },
+    {
+      "id": "2026-09-16-4",
+      "rank": 4,
+      "title": "读懂面试官 才能拿下好offer——市公共就业服务中心职业指导公益讲座第三讲报名开启",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-16",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_01c7bab600ca464cb7fbd8811b77917f.html"
+    },
+    {
+      "id": "2026-09-16-5",
+      "rank": 5,
+      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第39场）",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-16",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_ef7f4c5b825e4aceb35ef1d72fb7c10f.html"
+    },
+    {
+      "id": "2026-09-16-6",
+      "rank": 6,
       "title": "济南有岗位！国家电投集团公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-15",
+      "publishedAt": "2026-09-16",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
@@ -28,52 +75,16 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_0f56ff1ba7524eafa233d7ed469b331b.html"
     },
     {
-      "id": "2026-09-15-3",
-      "rank": 3,
-      "title": "不要错过！山东大学公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-15",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_f65844f6353c46b1b76b82621e793c66.html"
-    },
-    {
-      "id": "2026-09-15-4",
-      "rank": 4,
+      "id": "2026-09-16-7",
+      "rank": 7,
       "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第38场）",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-15",
+      "publishedAt": "2026-09-16",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
       "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_b649f768b72145f184d6e7c25621182c.html"
-    },
-    {
-      "id": "2026-09-15-5",
-      "rank": 5,
-      "title": "李强签署国务院令 公布《国务院关于修改〈住房公积金管理条例〉的决定》",
-      "source": "济南住房公积金中心",
-      "publishedAt": "2026-09-15",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://gjj.jinan.gov.cn/col/col11195/art/2026/art_f8744ac656664459a243d3e77d318864.html"
-    },
-    {
-      "id": "2026-09-15-6",
-      "rank": 6,
-      "title": "治理中小企业回款难 这场吹风会深入解读",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-15",
-      "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
-      "tags": [
-        "赚钱风口"
-      ],
-      "url": "https://www.gov.cn/zhengce/202609/content_7081057.htm"
     }
   ]
 }
