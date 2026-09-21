@@ -1,127 +1,43 @@
 {
-  "targetDate": "2026-09-20",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-21",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-20-1",
+      "id": "2026-09-21-1",
       "rank": 1,
-      "title": "2026年度首批博士（后）人才新创办企业 资助项目入选企业公示",
+      "title": "不要错过！这家驻济省属企业公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
+      "publishedAt": "2026-09-21",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
         "赚钱风口"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18578/art/2026/art_4eaa6cd643d3476eae243d0f9ecf47d2.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_0581e0b20e4b49fbbebb060285110141.html"
     },
     {
-      "id": "2026-09-20-2",
+      "id": "2026-09-21-2",
       "rank": 2,
-      "title": "济南市人力资源和社会保障局关于组织济南市2026年度高技能（技术）人才特色培训基地和技能（技术）大师工作室项目申报工作的通知",
+      "title": "关于组织济南市2026年度高技能（技术）人才特色培训基地和技能（技术）大师工作室项目申报工作的通知",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
+      "publishedAt": "2026-09-21",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18578/art/2026/art_eb7b746331ea458a9cd5b714a33cc948.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_f62ecc20f3484943a6d109579cc9b835.html"
     },
     {
-      "id": "2026-09-20-3",
+      "id": "2026-09-21-3",
       "rank": 3,
       "title": "驻济央企！山东电工电气集团招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
+      "publishedAt": "2026-09-21",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_5598db50061047f4857e8e07ded5433a.html"
-    },
-    {
-      "id": "2026-09-20-4",
-      "rank": 4,
-      "title": "《中国劳动保障报》点赞济南人社部门创新服务模式 推动社保经办从“人工主导”向“数智赋能”转型",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_1cc25927311e40dc8f3c3035e0741014.html"
-    },
-    {
-      "id": "2026-09-20-5",
-      "rank": 5,
-      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第39场）",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_239c8b7e62244b73b60ed1dd9afbd700.html"
-    },
-    {
-      "id": "2026-09-20-6",
-      "rank": 6,
-      "title": "不要错过！中国银行山东省分行公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-20",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_614bb7bd88bf49619d53ad67128573b9.html"
-    },
-    {
-      "id": "2026-09-20-7",
-      "rank": 7,
-      "title": "济南住房公积金中心关于开展装修自住住房提取住房公积金业务的通知",
-      "source": "济南住房公积金中心",
-      "publishedAt": "2026-09-20",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://gjj.jinan.gov.cn/col/col65559/art/2026/art_c1473484efb34046ab5789fc21d6ceb3.html"
-    },
-    {
-      "id": "2026-09-20-8",
-      "rank": 8,
-      "title": "关于装修自住住房提取住房公积金业务政策解读",
-      "source": "济南住房公积金中心",
-      "publishedAt": "2026-09-20",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://gjj.jinan.gov.cn/col/col121817/art/2026/art_ae3cd5d426f94a90a0c96836aaa314c7.html?type=FUaRhQW7Lo9974tywtQmQ"
-    },
-    {
-      "id": "2026-09-20-9",
-      "rank": 9,
-      "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-20",
-      "summary": "与毕业求职或独立生活直接相关的中国政府网公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://www.gov.cn/zhengce/202609/content_7081587.htm"
-    },
-    {
-      "id": "2026-09-20-10",
-      "rank": 10,
-      "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-20",
-      "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
-      "tags": [
-        "赚钱风口"
-      ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm"
     }
   ]
 }
