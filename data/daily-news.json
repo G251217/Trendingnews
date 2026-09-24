@@ -1,13 +1,13 @@
 {
-  "targetDate": "2026-09-23",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-24",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-23-1",
+      "id": "2026-09-24-1",
       "rank": 1,
       "title": "“泉城百校共未来·百名硕博人才泉城行”——聚焦标志性产业链，共赴泉城之约",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-09-24",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
@@ -16,60 +16,47 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b47a42b4d92c4f528d4480a5c6bdb606.html"
     },
     {
-      "id": "2026-09-23-2",
+      "id": "2026-09-24-2",
       "rank": 2,
-      "title": "区县联播丨市中 钢城 高新：联动组织创业导师进孵化基地破难题 举办2026秋季人才招聘会 护薪筑安送法进楼宇 精准普法护航企业发展",
+      "title": "济南有岗位！这家央企公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-09-24",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_bedb1fe0f8994f978d2157bc565e773b.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b281e15273154b18ad544c522aa61e23.html"
     },
     {
-      "id": "2026-09-23-3",
+      "id": "2026-09-24-3",
       "rank": 3,
-      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第40场）",
+      "title": "温馨提示：这场招聘夜市有变动",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-09-24",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_73633d5539a54cb3aef4d092500a5210.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c3e8c9645c3145bcb97e06870a2b614e.html"
     },
     {
-      "id": "2026-09-23-4",
+      "id": "2026-09-24-4",
       "rank": 4,
-      "title": "岗位多多！中国重汽公开招聘了",
+      "title": "2026年济南市“百日千万招聘专项行动”专场网络招聘会（第41场）",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-09-24",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_0fa49717864f4169be3701ee3d168628.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_4a0e053881f3455e81a3e25a4f982a9d.html"
     },
     {
-      "id": "2026-09-23-5",
+      "id": "2026-09-24-5",
       "rank": 5,
-      "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
-      "source": "中国政府网",
-      "publishedAt": "2026-09-23",
-      "summary": "与毕业求职或独立生活直接相关的中国政府网公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://www.gov.cn/zhengce/202609/content_7081587.htm"
-    },
-    {
-      "id": "2026-09-23-6",
-      "rank": 6,
       "title": "市中人社：开展送法进企业活动 推动劳动争议源头化解",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-09-24",
       "summary": "来自济南市人力资源和社会保障局的公开信息，已按主题相关性纳入今日热点候选。",
       "tags": [
         "赚钱风口"
