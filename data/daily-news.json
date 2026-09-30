@@ -1,55 +1,42 @@
 {
-  "targetDate": "2026-09-29",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-09-30",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-09-29-1",
+      "id": "2026-09-30-1",
       "rank": 1,
-      "title": "区县联播丨市中 长清：推进“云孵化”平台建设 助力就业创业服务提质增效 开展“云孵化”平台宣传推广暨就业人才政策宣讲活动",
+      "title": "招聘若干人 济南有岗位！这家央企公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-29",
+      "publishedAt": "2026-09-30",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_bd2e06a33a1f43089bae99905370ea8a.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c3aecffd00e84654a377e94790bcb64e.html"
     },
     {
-      "id": "2026-09-29-2",
+      "id": "2026-09-30-2",
       "rank": 2,
+      "title": "2026济南市求职能力实训营高新区专场招募启动速来报名!",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-09-30",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_774a06eb52ab4add9bbec202f0645eec.html"
+    },
+    {
+      "id": "2026-09-30-3",
+      "rank": 3,
       "title": "5011人 济南有岗！中国石化公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-29",
+      "publishedAt": "2026-09-30",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_5c3a82e20ce4406db3a0dcf9dbcec358.html"
-    },
-    {
-      "id": "2026-09-29-3",
-      "rank": 3,
-      "title": "济南市社保卡“泉城惠民行”活动启动——社保赋能高校第二课堂志愿服务平台正式上线，系列惠民举措集中发布",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-29",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_465a706c7a4348ef9e18d791eff9ba92.html"
-    },
-    {
-      "id": "2026-09-29-4",
-      "rank": 4,
-      "title": "18人！这家驻济省属事业单位招聘啦~",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-09-29",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_d59819a41baf4d3b993708bbb481e126.html"
     }
   ]
 }
