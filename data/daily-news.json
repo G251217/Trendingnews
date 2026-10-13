@@ -1,18 +1,55 @@
 {
-  "targetDate": "2026-10-08",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-10-13",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-10-08-1",
+      "id": "2026-10-13-1",
       "rank": 1,
-      "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
-      "source": "中国政府网",
-      "publishedAt": "2026-10-08",
-      "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
+      "title": "区县联播丨槐荫 章丘：大学生新创办企业交流座谈会举行 零工、高校毕业生专场招聘会举办",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-10-13",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
+        "政策",
         "赚钱风口"
       ],
-      "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_f435e31d280b422e9ebdfc682f4beada.html"
+    },
+    {
+      "id": "2026-10-13-2",
+      "rank": 2,
+      "title": "58人！这家中央驻鲁单位公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-10-13",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9579136a971c4ad2b5a54fd8ffa4bf94.html"
+    },
+    {
+      "id": "2026-10-13-3",
+      "rank": 3,
+      "title": "2026年全国城市联合招聘高校毕业生秋季专场网络招聘会（第3场）",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-10-13",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_785e544ecf3145e0817b75bce92ab97e.html"
+    },
+    {
+      "id": "2026-10-13-4",
+      "rank": 4,
+      "title": "济南有岗 待遇优厚！中国绿发公开招聘啦～",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-10-13",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_6f1dd5591a8f4980a626f5806bf45620.html"
     }
   ]
 }
