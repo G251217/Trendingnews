@@ -1,79 +1,30 @@
 {
-  "targetDate": "2026-10-21",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-10-22",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-10-21-1",
+      "id": "2026-10-22-1",
       "rank": 1,
-      "title": "这家区属国有企业公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-10-21",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "title": "情暖重阳 文化润心--济南住房公积金中心组织退休...",
+      "source": "济南住房公积金中心",
+      "publishedAt": "2026-10-22",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
       "tags": [
-        "政策",
-        "赚钱风口"
+        "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_8eae8ff46f0543ae904c2bbde5fa3004.html"
+      "url": "https://gjj.jinan.gov.cn/col/col11194/art/2026/art_d757d53fa1b34b6fbbb835a4cc10274e.html"
     },
     {
-      "id": "2026-10-21-2",
+      "id": "2026-10-22-2",
       "rank": 2,
-      "title": "不要错过！中国烟草公开招聘了",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-10-21",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_cae676f2b3064c45827c7a4d6c3687a9.html"
-    },
-    {
-      "id": "2026-10-21-3",
-      "rank": 3,
-      "title": "2026年全国城市联合招聘高校毕业生秋季专场网络招聘会（第4场）",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-10-21",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_83b2a91e2adf408da937b592a3701f6b.html"
-    },
-    {
-      "id": "2026-10-21-4",
-      "rank": 4,
-      "title": "2026年“技耀泉城”海右技能人才大赛暨起步区第二届职业技能竞赛成功举办",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-10-21",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_8df0ece1fe1040b88329a501fddbe43f.html"
-    },
-    {
-      "id": "2026-10-21-5",
-      "rank": 5,
-      "title": "济南市“订单就业类”项目制培训第二期来啦！五大热门课程等你报名~",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-10-21",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_4c39228336c84503bc34f409d4a9268b.html"
-    },
-    {
-      "id": "2026-10-21-6",
-      "rank": 6,
-      "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+      "title": "科技部就《关于推动科技创新和产业创新深度融合的意见》答记者问",
       "source": "中国政府网",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "summary": "来自中国政府网的公开信息，已按主题相关性纳入今日热点候选。",
       "tags": [
         "赚钱风口"
       ],
-      "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm"
+      "url": "https://www.gov.cn/zhengce/202610/content_7083959.htm"
     }
   ]
 }
