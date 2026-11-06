@@ -1,26 +1,39 @@
 {
-  "targetDate": "2026-11-05",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-11-06",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-11-05-1",
+      "id": "2026-11-06-1",
       "rank": 1,
-      "title": "不要错过！这家市属国有企业公开招聘了",
+      "title": "不要错过！这家驻济省属企业公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
         "赚钱风口"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_4ba48a13437c4130916db9f26ee6e299.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_85e612ad201c4be1a92ee0ba2033060a.html"
     },
     {
-      "id": "2026-11-05-2",
+      "id": "2026-11-06-2",
       "rank": 2,
+      "title": "这家区属国有企业公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-06",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_37860b1b6262467e89c704c0ad7d1694.html"
+    },
+    {
+      "id": "2026-11-06-3",
+      "rank": 3,
       "title": "区县联播丨天桥 长清：持续做优秋季就业创业服务 举办大学生新创办企业资助项目专题座谈暨政策宣讲活动",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
@@ -29,40 +42,28 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_3f66532f27b54faab575005e4dc174bb.html"
     },
     {
-      "id": "2026-11-05-3",
-      "rank": 3,
-      "title": "关于对拟入选济南市2026年度高技能（技术）人才特色培训基地和技能（技术）大师工作室的公示公告",
-      "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-05",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
-      "tags": [
-        "政策"
-      ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18578/art/2026/art_29b5597efbc840f7a664faeaac178c42.html"
-    },
-    {
-      "id": "2026-11-05-4",
+      "id": "2026-11-06-4",
       "rank": 4,
-      "title": "2027年度济南市面向优秀本土人才考试录用基层公务员公告发布",
+      "title": "本周六 2026年全国城市联合招聘高校毕业生秋季专场招聘会邀请您来",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_03a5138025454f9989c84439e0b0a839.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9696545e19c44b128948dc4e5492da4c.html"
     },
     {
-      "id": "2026-11-05-5",
+      "id": "2026-11-06-5",
       "rank": 5,
-      "title": "区县联播丨市中 长清：承办2026年“技耀泉城”海右技能人才大赛家政服务、电力行业竞赛 深化校企协同 赋能产教融合",
+      "title": "“就业职通车”招聘会邀请函",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_f4c217c0257d4235af4b86e909ba4eca.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_d982cbd1693e4507930f60d8a040cc14.html"
     }
   ]
 }
