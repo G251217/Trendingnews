@@ -1,13 +1,13 @@
 {
-  "targetDate": "2026-11-09",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-11-11",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-11-09-1",
+      "id": "2026-11-11-1",
       "rank": 1,
       "title": "历下人社：举办第三批大学生创业资助评审",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
@@ -16,52 +16,64 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_c0ee3577df7b46daaa3bda65ee5cf97a.html"
     },
     {
-      "id": "2026-11-09-2",
+      "id": "2026-11-11-2",
       "rank": 2,
-      "title": "47人！山东文旅集团公开招聘了",
+      "title": "不要错过！这家驻济省属事业单位公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_07c4ada729214bafbcb1bd665fc238f0.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_5087c9f647d5473aa032a6a3ed9026f6.html"
     },
     {
-      "id": "2026-11-09-3",
+      "id": "2026-11-11-3",
       "rank": 3,
-      "title": "“选择济南·共赢未来”驻济高校秋季就业双选会在齐鲁工业大学（山东省科学院）举行",
+      "title": "2026年全国城市联合招聘高校毕业生秋季专场网络招聘会（第11场）",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_db9c88edc8c74efba2450506da8b7342.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_bca688f36f284164bb8497c3db50e690.html"
     },
     {
-      "id": "2026-11-09-4",
+      "id": "2026-11-11-4",
       "rank": 4,
-      "title": "44人！山东海洋集团公开招聘了",
+      "title": "179人！济钢集团公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_b7bce328be6f4157ad93e1edcb7b7746.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9a7cb00e8c154e12b0116e239a1b4ce9.html"
     },
     {
-      "id": "2026-11-09-5",
+      "id": "2026-11-11-5",
       "rank": 5,
-      "title": "长清人社：技能照亮安居路 就业托起致富梦",
+      "title": "73人！山东电工电气集团公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_c3e60fdd68ce4604ab301d57f4ebd3a1.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c4db805532b643fc8f47738fc8af7de8.html"
+    },
+    {
+      "id": "2026-11-11-6",
+      "rank": 6,
+      "title": "长清人社：组织开展“就业服务进高校”系列活动",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-11",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_8f331fdb936b4808805dee7fc7b602dc.html"
     }
   ]
 }
