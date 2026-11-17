@@ -1,13 +1,13 @@
 {
-  "targetDate": "2026-11-16",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-11-17",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-11-16-1",
+      "id": "2026-11-17-1",
       "rank": 1,
       "title": "30人！这家驻济省属企业公开招聘啦~",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-16",
+      "publishedAt": "2026-11-17",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策",
@@ -16,28 +16,78 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_694e1c4724744ae3974ea177f1854e98.html"
     },
     {
-      "id": "2026-11-16-2",
+      "id": "2026-11-17-2",
       "rank": 2,
-      "title": "2026年全国城市联合招聘高校毕业生秋季专场网络招聘会",
+      "title": "济南市人力资源和社会保障局等13部门关于印发“青年乐业泉城”高质量就业创业工程实施方案（2026—2028年）的通知",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-16",
+      "publishedAt": "2026-11-17",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
-        "政策"
+        "政策",
+        "赚钱风口"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_6e87dd4623774377bb53e9597c229e7a.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col39924/art/2026/art_ea2ada720a734b048bcff3cb51b54322.html"
     },
     {
-      "id": "2026-11-16-3",
+      "id": "2026-11-17-3",
       "rank": 3,
-      "title": "招聘1000+ 济南有岗位！中储粮集团招聘了~",
+      "title": "政策解读：关于《济南市人力资源和社会保障局等13部门关于印发“青年乐业泉城”高质量就业创业工程实施方案（2026—2028年）的通知》的解读",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-16",
+      "publishedAt": "2026-11-17",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col121890/art/2026/art_5aa0698471434a5c92001398640f8e8e.html"
+    },
+    {
+      "id": "2026-11-17-4",
+      "rank": 4,
+      "title": "124人！山东铁投集团公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-17",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_9eeb8751afec42d39ff550ee63ec9bdb.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_c7e14e604c6046ee9be057939b2339a8.html"
+    },
+    {
+      "id": "2026-11-17-5",
+      "rank": 5,
+      "title": "“职”引未来 就在泉城——济南市“职业指导+”系列招聘活动首日火热开启",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-17",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_f2cd51f4ac694f9fad35286fef0b81fe.html"
+    },
+    {
+      "id": "2026-11-17-6",
+      "rank": 6,
+      "title": "长清人社：“职业指导+”系列招聘活动长清专场成功举办",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-17",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_738402311823421a90c1d11e506de2bd.html"
+    },
+    {
+      "id": "2026-11-17-7",
+      "rank": 7,
+      "title": "济南市人力资源和社会保障局 济南市财政局关于公布《济南市补贴性职业技能培训需求项目指导目录（2026年）》的通知",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-17",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col39924/art/2026/art_e5d0b52e4d9c42a8b6d3aa9ad571212a.html?type=4JnkXemNbirDhO2Om8bBC"
     }
   ]
 }
