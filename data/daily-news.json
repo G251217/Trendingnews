@@ -1,13 +1,51 @@
 {
-  "targetDate": "2026-11-19",
-  "status": "今日采集暂不可用，正在展示最近一次成功榜单",
+  "targetDate": "2026-11-20",
+  "status": "已按北京时间汇总今日资讯；就业优先济南与杭州机会",
   "items": [
     {
-      "id": "2026-11-19-1",
+      "id": "2026-11-20-1",
       "rank": 1,
+      "title": "济南市人力资源和社会保障局等13部门关于印发“青年乐业泉城”高质量就业创业工程实施方案（2026—2028年）的通知",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-20",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col39924/art/2026/art_ea2ada720a734b048bcff3cb51b54322.html"
+    },
+    {
+      "id": "2026-11-20-2",
+      "rank": 2,
+      "title": "政策解读：关于《济南市人力资源和社会保障局等13部门关于印发“青年乐业泉城”高质量就业创业工程实施方案（2026—2028年）的通知》的解读",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-20",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策",
+        "赚钱风口"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col121890/art/2026/art_5aa0698471434a5c92001398640f8e8e.html"
+    },
+    {
+      "id": "2026-11-20-3",
+      "rank": 3,
+      "title": "35人！历城控股集团公开招聘了",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-20",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
+      "tags": [
+        "政策"
+      ],
+      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_6c19bdb5cbe743eb85a960f3a8955978.html"
+    },
+    {
+      "id": "2026-11-20-4",
+      "rank": 4,
       "title": "100人！山东发展集团公开招聘了",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
@@ -15,28 +53,28 @@
       "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_58e26624f1eb47a79be1c872c99d12e5.html"
     },
     {
-      "id": "2026-11-19-2",
-      "rank": 2,
-      "title": "2026年“职业指导+”系列招聘活动邀请函",
+      "id": "2026-11-20-5",
+      "rank": 5,
+      "title": "长清人社：政策宣讲进高校 靶向赋能促就业",
       "source": "济南市人力资源和社会保障局",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://jnhrss.jinan.gov.cn/col/col18309/art/2026/art_8ab73fa5f1a547da814bcef5cda1f9da.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_af4cd3b36eaf46b09e4007e5e4454aa4.html"
     },
     {
-      "id": "2026-11-19-3",
-      "rank": 3,
-      "title": "济南住房公积金中心召开党组（扩大）会议 传达学习...",
-      "source": "济南住房公积金中心",
-      "publishedAt": "2026-11-19",
-      "summary": "面向济南毕业求职或独立生活直接相关的济南住房公积金中心公开资讯。",
+      "id": "2026-11-20-6",
+      "rank": 6,
+      "title": "槐荫人社：举办2026年“职业指导+”系列招聘活动",
+      "source": "济南市人力资源和社会保障局",
+      "publishedAt": "2026-11-20",
+      "summary": "面向济南毕业求职或独立生活直接相关的济南市人力资源和社会保障局公开资讯。",
       "tags": [
         "政策"
       ],
-      "url": "https://gjj.jinan.gov.cn/col/col11194/art/2026/art_dcc788765494472984176502c61cbbdf.html"
+      "url": "https://jnhrss.jinan.gov.cn/col/col18310/art/2026/art_5f3a5b4323f24c8a87189623c02b2179.html"
     }
   ]
 }
